@@ -1,2 +1,2 @@
 # Holian_project
-Lauren's repo for EEID workshop
+Lauren's repo for EEID workshop 2026
